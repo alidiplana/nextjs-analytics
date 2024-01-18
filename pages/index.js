@@ -18,7 +18,9 @@ export default function Home() {
       </script>
       <Navbar />
 
-      <div style={{ marginTop: "10px", fontSize: "20px" }}>Landing Page</div>
+      <div style={{ marginTop: "10px", fontSize: "20px" }}>
+        Landing Page after GA
+      </div>
     </>
   );
 }
